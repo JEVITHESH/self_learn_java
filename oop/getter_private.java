@@ -1,3 +1,4 @@
+//getter is used for to display the private value
 class A {
     private int num = 10;
 
